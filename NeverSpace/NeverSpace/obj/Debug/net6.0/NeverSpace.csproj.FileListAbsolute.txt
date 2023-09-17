@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\bin\Debug\net6.0\NeverSpace.deps.json
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\bin\Debug\net6.0\NeverSpace.dll
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\bin\Debug\net6.0\NeverSpace.pdb
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\NeverSpace.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\NeverSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\NeverSpace.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\NeverSpace.AssemblyInfo.cs
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\NeverSpace.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\NeverSpace.dll
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\refint\NeverSpace.dll
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\NeverSpace.pdb
+C:\Users\Dell\source\repos\NeverSpace\NeverSpace\obj\Debug\net6.0\ref\NeverSpace.dll
